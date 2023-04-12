@@ -7,10 +7,10 @@ Web Developer
 As a web developer, I design and build websites and web applications using HTML, CSS, and JavaScript. I have experience with various front-end and back-end frameworks, and I keep up with the latest web development trends to provide the best solutions to problems. My knowledge of web design principles, user experience, and website accessibility standards ensures that the websites I create are functional and user-friendly.
 
 *   🌍  I'm based in Los Angeles
-*   🖥️  See my portfolio at [My Portfolio](http://ivanmatias.netlify.app/)
+*   🖥️  See my portfolio [here](http://ivanmatias.netlify.app/)
 *   ✉️  You can contact me at [matiasivan1331@gmail.com](mailto:matiasivan1331@gmail.com)
-*   🚀  I'm currently working on [Fullstack Expense Tracker](http://github.com/aishyuu/expense-tracker)
-*   🧠  I'm learning Firebase
+*   🚀  I'm currently working on [a note taking app]([http://github.com/aishyuu/expense-tracker](https://github.com/aishyuu/notify))
+*   🧠  Currently learning Chat-GPT Proompting
 *   ⚡  I love rougelike video games :)
 
 ### Skills 
