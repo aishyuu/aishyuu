@@ -4,4 +4,4 @@
 - Working in Azure but learning Linux as well
 - Always seeking new opportunities
 
-<img src="./Cafe1.gif" alt="Cafe Gif" width="500" align="center">
+<img src="./Cafe1.gif" alt="Cafe Gif" width="400" align="center">
